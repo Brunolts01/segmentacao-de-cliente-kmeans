@@ -1,4 +1,4 @@
-# segmentacao-de-cliente-kmeans
+# segmentacao de clientes com kmeans
 
 A intenção desse projeto é demonstrar como é possível classificar clientes de uma empresa em grupos de acordo com seus comportamentos.
 
